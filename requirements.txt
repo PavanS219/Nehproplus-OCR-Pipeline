@@ -1,0 +1,17 @@
+# Install with: pip install -r requirements.txt
+
+# Core OCR and Image Processing
+easyocr
+opencv-python
+numpy
+Pillow
+
+# HTTP Requests for Ollama API
+requests
+
+# Progress Bar
+tqdm
+
+# Optional: For better image preprocessing
+scikit-image
+matplotlib
